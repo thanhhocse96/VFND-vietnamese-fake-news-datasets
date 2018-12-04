@@ -1,30 +1,51 @@
-﻿"http://binhluan.biz/thu-tuong-abe-cui-dau-xin-loi-vi-hanh-dong-phi-the-thao-cua-tuyen-nhat.html",
-"https://www.ipick.vn/bai-viet/thu-tuong-nhat-cui-dau-xin-loi-vi-tinh-than-phi-the-thao-cua-doi-bong",
-"http://tintucqpvn.net/choang-co-truong-deo-khan-quang-quay-banh-noc-tren-san-khau-truong.html",
-"http://tintucqpvn.net/chua-bao-gio-nhac-kpop-lai-de-hat-den-the.html",
-"http://www.gioitreviet.net/dai-hoc-hutech-se-ap-dung-cai-cach-tieq-viet-vao-nam-hoc-2018-59528.html",
-"https://giadinhtiepthi.com/cuoi-vo-bung-khi-tieng-cai-cach-vuong-tron-xam-nhap-cho-bua-cac-su-dung-chuyen-nghiep/",
-"https://giadinhtiepthi.com/chia-se-thang-than-vu-viec-25000-usd-va-cai-cach-giao-duc-rot-cuc-la-san-si-hay-la-ganh-ti/",
-"http://tintucqpvn.net/hai-nao-voi-vong-co-mang-ten-vuong-tron-tam-giac.html",
-"http://tintucqpvn.net/kinh-hoang-be-gai-bi-cho-nha-tan-cong-can-vao-khap-nguoi-gay-phan-no.html",
-"http://phapluat.news/khan-cap-hang-loat-tre-em-nhap-vien-vi-ngo-doc-thit-lon-co-chua-thuoc.html",
-"http://phapluat.news/khong-du-tien-tieu-huy-chi-cuc-thu-y-de-nghi-thao-cam-vien-mua-lai-cho-hoang-lam-moi-cho-su-tu.html",
-"http://kenh13.net/de-xuat-phuong-an-nghi-tet-mau-tuat-2018-len-20-ngay.html", #chặn crawl
-"http://autoxe.net/doi-song/khan-cap-xuat-hien-xe-bat-cho-gia-o-tp-hcm.html",
-"http://phapluat.news/de-xuat-cam-tat-ca-cong-chuc-ha-noi-xang-tai-tram-xang-nhat.html",
-"http://tintucqpvn.net/thanh-nien-24-bong-hoa-nguoi-ran-sau-1-dem-da-de-nut-toac-den-xi-ai-nhin-cung-ha-i.html",
-"https://thegioitre.vn/5-meo-than-thanh-danh-bay-mun-trong-mot-dem-47385.html",
-"https://thegioitre.vn/dan-tinh-ta-hoa-voi-hinh-anh-mat-me-phi-pheo-thuoc-la-cua-erik-sau-bao-nhieu-nam-lam-trai-ngoan-61821.html",
-"https://www.ipick.vn/bai-viet/hollywood-se-lam-sieu-pham-ve-tet-mau-than-1968-o-hue",
-"http://baoangiang.com.vn/hoa-sy-khuyet-tat-le-minh-chau-tro-thanh-nguoi-viet-dau-tien-co-ten-tren-dai-lo-danh-vong-hollywood-a234717.html",
-"http://thoibao.today/paper/ba-cu-92-van-mang-thai-ta-hoa-dua-di-kham-moi-phat-hien-su-that-dong-troi-sau-50-nam-2316227",
-"http://thoibao.today/paper/phat-hien-su-that-dong-troi-sau-viec-chong-khong-duoc-1736407",
-"http://haiduong.tintuc.vn/goc-hai-duong/video-xot-xa-nhin-canh-cu-ba-87-tuoi-co-ro-trong-tam-chieu-cu-giua-mua-dong-ret-buot.html",
-"https://laodong.vn/phap-luat/mot-phu-nu-bit-mat-bat-coc-chau-be-5-tuoi-bi-nguoi-dan-tom-gon-605391.ldo",
-"http://sorry.vn/blog/read/131-Bi-kich-ngoai-tinh-voi-bo-chong.html",
-"https://thoibao.de/duc-tu-choi-cap-visa-cho-doan-cong-tac-nha-nuoc-tam-ngung-cap-visa-cho-du-hoc-sinh-viet-nam",
-"https://thoibao.de/dai-su-quan-duc-o-ha-noi-tu-choi-cap-visa-cho-lao-dong-viet-nam-sang-hoc-nghe-dieu-duong",
-"http://thoibao.today/paper/rua-bien-sa-luoi-vuon-co-cui-lay-ong-chu-ben-mua-roi-phong-sinh-16-nam-sau-chu-rua-quay-lai-tra-on-1937316",
-"http://thoibao.today/paper/kham-pha-sung-sot-ve-tri-nho-nhu-than-cua-dong-vat-3668946",
-"http://thoibao.today/paper/nhung-mon-an-than-ky-giup-si-tu-thi-dau-dau-do-2134905",
-"http://thoibao.today/paper/than-duoc-mua-dong-chua-bach-benh-ma-nhieu-nguoi-tho-o-1398946"
+﻿"http://binhluan.biz/thu-tuong-abe-cui-dau-xin-loi-vi-hanh-dong-phi-the-thao-cua-tuyen-nhat.html", #So sánh với nguồn tin chuẩn, hình ảnh sai lệch
+"https://www.ipick.vn/bai-viet/thu-tuong-nhat-cui-dau-xin-loi-vi-tinh-than-phi-the-thao-cua-doi-bong", Nguồn từ bài viết được phân loại GIẢ
+"http://tintucqpvn.net/choang-co-truong-deo-khan-quang-quay-banh-noc-tren-san-khau-truong.html", #Tiêu đề và nội dung không khớp
+"http://tintucqpvn.net/chua-bao-gio-nhac-kpop-lai-de-hat-den-the.html", #Tiêu đề và nội dung không khớp, tiêu đề kích động
+"http://www.gioitreviet.net/dai-hoc-hutech-se-ap-dung-cai-cach-tieq-viet-vao-nam-hoc-2018-59528.html", #Bài viết xác nhận tin tức thật VFND_Ac_Real_5, kết hợp nhiều bài viết khác nhau
+"https://giadinhtiepthi.com/cuoi-vo-bung-khi-tieng-cai-cach-vuong-tron-xam-nhap-cho-bua-cac-su-dung-chuyen-nghiep/", #Tiêu đề và nội dung kích động người đọc
+"https://giadinhtiepthi.com/chia-se-thang-than-vu-viec-25000-usd-va-cai-cach-giao-duc-rot-cuc-la-san-si-hay-la-ganh-ti/", #Nội dung không liên quan đến tiêu đề và nội dung chung
+"http://tintucqpvn.net/hai-nao-voi-vong-co-mang-ten-vuong-tron-tam-giac.html", #Tiêu đề và nội dung không khớp, tiêu đề kích động
+"http://tintucqpvn.net/kinh-hoang-be-gai-bi-cho-nha-tan-cong-can-vao-khap-nguoi-gay-phan-no.html", #Nội dung và tiêu đề không liên quan
+"http://phapluat.news/khan-cap-hang-loat-tre-em-nhap-vien-vi-ngo-doc-thit-lon-co-chua-thuoc.html", #So sánh với nhiều nguồn tin khác => tin bịa đặt
+"http://phapluat.news/khong-du-tien-tieu-huy-chi-cuc-thu-y-de-nghi-thao-cam-vien-mua-lai-cho-hoang-lam-moi-cho-su-tu.html", #So sánh với nhiều nguồn tin khác => tin bịa đặt
+"http://kenh13.net/de-xuat-phuong-an-nghi-tet-mau-tuat-2018-len-20-ngay.html", #(chặn crawl) So sánh với nhiều nguồn tin khác => tin bịa đặt
+"http://autoxe.net/doi-song/khan-cap-xuat-hien-xe-bat-cho-gia-o-tp-hcm.html", #So sánh với nhiều nguồn tin khác => tin bịa đặt
+"http://phapluat.news/de-xuat-cam-tat-ca-cong-chuc-ha-noi-xang-tai-tram-xang-nhat.html", #So sánh với nhiều nguồn tin khác => tin bịa đặt
+"http://tintucqpvn.net/thanh-nien-24-bong-hoa-nguoi-ran-sau-1-dem-da-de-nut-toac-den-xi-ai-nhin-cung-ha-i.html", #Kiểm tra với nhiều nguồn tin khác nhau => Nội dung hư cấu, mục đích câu view
+"https://thegioitre.vn/5-meo-than-thanh-danh-bay-mun-trong-mot-dem-47385.html", #Tiêu đề phi lí, mục đích câu view
+"https://thegioitre.vn/dan-tinh-ta-hoa-voi-hinh-anh-mat-me-phi-pheo-thuoc-la-cua-erik-sau-bao-nhieu-nam-lam-trai-ngoan-61821.html", #Kiểm tra với nhiều nguồn tin khác => không có thật
+"https://www.ipick.vn/bai-viet/hollywood-se-lam-sieu-pham-ve-tet-mau-than-1968-o-hue", #Kiểm tra với nhiều nguồn tin khác => không có thật
+"http://baoangiang.com.vn/hoa-sy-khuyet-tat-le-minh-chau-tro-thanh-nguoi-viet-dau-tien-co-ten-tren-dai-lo-danh-vong-hollywood-a234717.html", #Kiểm tra với nhiều nguồn tin khác => sai sự thật
+"http://thoibao.today/paper/ba-cu-92-van-mang-thai-ta-hoa-dua-di-kham-moi-phat-hien-su-that-dong-troi-sau-50-nam-2316227", #Tiêu đề câu view
+"http://thoibao.today/paper/phat-hien-su-that-dong-troi-sau-viec-chong-khong-duoc-1736407", #Tiêu đề và nội dung mang tính câu view, không có bằng chứng rõ ràng chứng minh tính đúng đắn của bài viết
+"http://haiduong.tintuc.vn/goc-hai-duong/video-xot-xa-nhin-canh-cu-ba-87-tuoi-co-ro-trong-tam-chieu-cu-giua-mua-dong-ret-buot.html", #Kiểm tra với nhiều nguồn tin khác => sai sự thật, mục đích câu view
+"https://laodong.vn/phap-luat/mot-phu-nu-bit-mat-bat-coc-chau-be-5-tuoi-bi-nguoi-dan-tom-gon-605391.ldo", #Kiểm tra với nhiều nguồn tin khác => sai sự thật
+"http://sorry.vn/blog/read/131-Bi-kich-ngoai-tinh-voi-bo-chong.html", #Tiêu đề và nội dung mang tính câu view, không có bằng chứng rõ ràng chứng minh tính đúng đắn của bài viết
+"https://thoibao.de/duc-tu-choi-cap-visa-cho-doan-cong-tac-nha-nuoc-tam-ngung-cap-visa-cho-du-hoc-sinh-viet-nam", #Kiểm tra với nhiều nguồn tin khác => sai sự thật
+"https://thoibao.de/dai-su-quan-duc-o-ha-noi-tu-choi-cap-visa-cho-lao-dong-viet-nam-sang-hoc-nghe-dieu-duong", #Kiểm tra với nhiều nguồn tin khác => sai sự thật
+"http://thoibao.today/paper/rua-bien-sa-luoi-vuon-co-cui-lay-ong-chu-ben-mua-roi-phong-sinh-16-nam-sau-chu-rua-quay-lai-tra-on-1937316", #Tiêu đề và nội dung mang tính câu view, không có bằng chứng rõ ràng chứng minh tính đúng đắn của bài viết
+"http://thoibao.today/paper/kham-pha-sung-sot-ve-tri-nho-nhu-than-cua-dong-vat-3668946", #Tiêu đề mang tính câu view
+"http://thoibao.today/paper/nhung-mon-an-than-ky-giup-si-tu-thi-dau-dau-do-2134905", #Tiêu đề mang tính câu view
+"http://thoibao.today/paper/than-duoc-mua-dong-chua-bach-benh-ma-nhieu-nguoi-tho-o-1398946", #Tiêu đề mang tính câu view
+"http://kenh13.net/mac-ao-2-day-di-ra-duong-vo-tre-bi-chong-de-ra-giua-nha-xu-ly-tai-cho-con-gai-quay-clip-cuoi-ho-ho-kia.html", #Tiêu đề mang tính câu view
+"http://tinvn.info/dung-ban-nem-chua-ran-gai-xinh-khien-dan-mang-ta-hoa-vi-dung-cu-nguy-hiem-dat-ngay-duoi-vong-1.html", #Tiêu đề không phù hợp với nội dung
+"http://tinvn.info/di-ca-dem-moi-ve-ba-me-ta-hoa-thay-mat-con-bi-cat-nat-kinh-di-va-su-that-soc-tan-nao-dang-sau.html", #Tiêu đề mang tính câu view
+"http://tinvn.info/khoe-anh-dep-khong-ty-vet-nhung-ngoc-trinh-khien-nguoi-nhin-ta-hoa-khi-phat-hien-ra-phan-di-dang-nay.html", #Tiêu đề mang tính câu view
+"http://tinvn.info/ban-trai-yeu-5-nam-chua-mot-lan-doi-hoi-nghi-anh-gay-toi-keo-luon-vao-phong-coi-ao-de-kiem-tra-thi-anh-ap-ung-xin-em-dung-coi-va-su-that-la.html" #Tiêu đề và nội dung mang tính câu view
+"http://tinvn.info/xe-dang-di-bong-dung-chet-may-thieu-nu-kinh-hai-khi-thao-tung-xe-la-canh-tuong-khong-the-nao-quen.html", #Tiêu đề mang tính câu view, nội dung không phù hợp
+"http://tinvn.info/nhat-kim-anh-tiet-lo-than-duoc-giup-co-thoat-khoi-luoi-hai-tu-than-tren-may-bay.html", #Tiêu đề và nội dung mang tính câu view
+"http://tinvn.info/mac-do-boi-goi-cam-bao-anh-gay-bat-ngo-khi-xam-chu-nay-len-dui.html", #Tiêu đề và nội dung mang tính câu view
+"http://tinvn.info/hang-ngan-nguoi-ha-noi-dung-hinh-khi-chung-kien-bo-trang-phuc-tran-da-thit-cua-em-gai-tre-dep-nay.html", #Tiêu đề và nội dung không phù hợp
+"http://tinvn.info/cam-giac-nhu-truc-quay-trai-dat-sap-gay-khi-xem-loat-anh-khong-the-khong-gao-thet-nay.html", #Tiêu đề và nội dung mang tính câu view
+"http://tinvn.info/nguoi-dan-ong-bi-ma-dat-di-choi-cho-toi-chet-o-quang-nam.html", #Tiêu đề không phù hợp
+"http://tinvn.info/nhat-duoc-chiec-hop-ki-la-tren-bien-nguoi-dan-ong-phai-vao-vien-ngay-lap-tuc-khi-biet-danh-tinh-that-cua-no.html", #Tiêu đề và nội dung mang tính câu view
+"http://tinvn.info/nhung-dau-hieu-nhan-biet-nha-ban-dang-co-ma-va-cach-tru-ma-quy-trong-nha.html", #Hư cấu
+"http://tinvn.info/bi-mat-dong-troi-ma-khong-mot-nhan-vien-khach-san-nao-dam-noi-cho-ban-biet.html", #Tiêu đề gây kích thích người đọc
+"http://tinvn.info/bi-mat-dang-sau-chiec-nhan-tren-ngon-tay-ut-cua-thanh-hang-va-chi-pu.html", #Tiêu đề và nội dung không liên quan
+"http://tinvn.info/be-nhat-lan-bao-mong-cho-nguoi-nha-ve-nghi-pham-truoc-khi-bi-bat.html", #Tiêu đề và nọi dung mê tín
+"http://tinvn.info/ao-lang-bong-luc-nhuc-toan-sinh-vat-la-tho-tay-so-vao-moi-tim-mat-so-hai-khi-biet-su-that.html", #Tiêu đề câu view
+"http://tinvn.info/cau-be-kinh-hai-khi-thay-chan-luc-nhuc-hang-trieu-sinh-vat-bau-chat-cui-xuong-phat-hien-su-that-bang-hoang.html", #Tiêu đề và nội dung không khớp
+"http://tinvn.info/bac-si-khong-dau-truoc-cua-phong-kham-khien-ca-benh-vien-nao-loan-khi-biet-su-that.html", #Tiêu đề gây kích động
+"http://tinvn.info/soc-voi-nhung-loai-bua-ngai-co-that-dau-hieu-khi-bi-dinh-va-day-la-cach-phong-tranh.html", #Nội dung mê tín
+"http://tinvn.info/nhat-duoc-xac-tran-ven-duong-nguoi-dan-ong-chet-sung-voi-thu-trong-bung-tran-lau-nam.html" #Tiêu đề câu view
