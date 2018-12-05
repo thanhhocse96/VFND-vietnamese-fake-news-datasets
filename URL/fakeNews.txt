@@ -48,4 +48,24 @@
 "http://tinvn.info/cau-be-kinh-hai-khi-thay-chan-luc-nhuc-hang-trieu-sinh-vat-bau-chat-cui-xuong-phat-hien-su-that-bang-hoang.html", #Tiêu đề và nội dung không khớp
 "http://tinvn.info/bac-si-khong-dau-truoc-cua-phong-kham-khien-ca-benh-vien-nao-loan-khi-biet-su-that.html", #Tiêu đề gây kích động
 "http://tinvn.info/soc-voi-nhung-loai-bua-ngai-co-that-dau-hieu-khi-bi-dinh-va-day-la-cach-phong-tranh.html", #Nội dung mê tín
-"http://tinvn.info/nhat-duoc-xac-tran-ven-duong-nguoi-dan-ong-chet-sung-voi-thu-trong-bung-tran-lau-nam.html" #Tiêu đề câu view
+"http://tinvn.info/nhat-duoc-xac-tran-ven-duong-nguoi-dan-ong-chet-sung-voi-thu-trong-bung-tran-lau-nam.html", #Tiêu đề câu view
+"http://tinvn.info/tuong-o-trung-ga-mang-ve-ap-thanh-con-thanh-nien-ngay-lap-tuc-chuyen-nha-chi-sau-2-tuan.html", #Kết hợp các nguồn tin khác nhau => tin sai sự thật
+"http://tinvn.info/co-gai-tu-suong-101-lan-lien-tiep-trong-suot-12-gio-lien-va-cai-ket-gay-soc.html", #So sánh với nhiều nguồn tin khác nhau => tin bịa đặt
+"http://tinvn.info/cap-doi-chup-1000-kieu-anh-chi-mot-tu-the-trong-3-nam-ai-cung-soc-khi-biet-su-that.html", #Tiêu đề gây sốc, nội dung không liên quan
+"http://tinvn.info/vac-bua-hon-da-ve-ke-bep-nguoi-dan-ong-soc-nang-khi-duoc-tra-400-trieu-chi-vi-bi-mat-nay-ben-trong.html", #Tiêu đề và nội dung không liên quan
+"http://tinvn.info/vua-thay-quai-khung-den-xi-loi-ra-tu-khuc-cay-thanh-nien-vut-voi-go-quy-chay-mat-dep-chi-sau-1-giay.html", #Ăn cắp từ 1 trang nước ngoài, tiêu đề sai sự thật
+"http://tinvn.info/phat-hoang-vi-tieng-rit-dinh-tai-moi-dem-chay-ra-keu-cuu-moi-kinh-hoang-thay-canh-tuong-dam-mau-chong-dang-lam-sau-vuon.html", #Tiêu đề gây sốc, mang tính câu view, không khớp nội dung
+"http://tinvn.info/tuong-ca-tram-con-ran-bo-vao-nha-tra-thu-chang-trai-kinh-hai-tot-do-khi-thay-canh-tuong-chet-choc-am-anh-sau-do.html", #Tiêu đề và nội dung không liên quan
+"http://tinvn.info/du-em-gai-cosplay-moi-quen-gui-anh-trong-bon-tam-chang-trai-soc-tan-nao-khi-nang-trut-bo-xiem-y.html", #Tiêu đề và nội dung không liên quan
+"http://tinvn.info/thoi-buoi-gio-xinh-qua-cung-la-cai-toi-nhu-co-gai-nay-chang-han.html", #Tin nhảm, bài viết không có mục đích rõ ràng
+"http://tinvn.info/vo-chet-3-ngay-ve-bao-mong-chong-do-tran-nha-xuong-de-roi-soc-ngat-khi-thay-thu-do.html", #Mê tín, nội dung không có bằng chứng rõ ràng
+"http://tinvn.info/dem-nao-me-cung-bao-mong-cho-con-trai-va-cai-ket.html", #Mê tín
+"http://tinvn.info/cuoi-vo-cho-con-trai-bo-me-dat-200-mam-co-nhung-khong-ai-toi-thong-gia-biet-duoc-su-that-thi-doi-huy-hon-ngay-lap-tuc.html", #Bài viết không có bằng chứng rõ ràng, hình ảnh sai lệch
+"http://tinvn.info/chap-nhan-do-vo-cho-con-nho-ban-than-va-cai-ket-soc.html", #Tiêu đề gây sốc nhưng nội dung không có bằng chứng rõ ràng
+"http://tinvn.info/chong-chon-chuoi-xanh-va-trung-xuong-duoi-dat-canh-tuong-dang-sau-khien-vo-kinh-hai.html", #Tiêu đề và nội dung không liên quan
+"http://tinvn.info/ban-gai-dat-co-nhan-muon-nghin-gach-da-khi-binh-luan-cuc-soc-the-nay-o-buc-anh-ho-bao-cua-ngan-98.html", #Tin nhảm, đọc chỉ phí thời giờ
+"http://tinvn.info/sau-thoi-gian-dai-chua-benh-dai-gia-xau-nhat-the-gioi-tran-son-gay-soc-nang-voi-hinh-anh-banh-bao-kho-tin.html", #Tiêu đề gây sốc, nội dung không khớp
+"http://tinvn.info/hot-girl-co-vong-1-tu-nhien-khung-nhat-chau-a-phat-ngon-gay-soc-ve-ly-do-khong-bao-gio-mac-ho.html", #Tiêu đề và nội dung không khớp
+"http://tinvn.info/mac-do-khong-khac-gi-vai-man-len-bar-du-don-mon-2k-nhan-cai-ket-qua-dang-khi-phat-ngon-cau-nay.html", #Tiêu đề và nội dung không khớp
+"http://tinvn.info/quan-trung-vit-lon-1-dem-ban-1-000-qua-khach-den-mua-soc-nang-khi-biet-ben-trong-noi-co.html", #Tiêu đề gây sốc, nội dung không liên quan
+"http://tinvn.info/ly-do-phi-nhung-phai-uong-thuoc-tru-sau-tu-tu-khien-ai-cung-choang.html" #Tiêu đề gây sốc, không khớp nội dung
