@@ -9,11 +9,11 @@
 "http://tintucqpvn.net/kinh-hoang-be-gai-bi-cho-nha-tan-cong-can-vao-khap-nguoi-gay-phan-no.html", #Nội dung và tiêu đề không liên quan
 "http://phapluat.news/khan-cap-hang-loat-tre-em-nhap-vien-vi-ngo-doc-thit-lon-co-chua-thuoc.html", #So sánh với nhiều nguồn tin khác => tin bịa đặt
 "http://phapluat.news/khong-du-tien-tieu-huy-chi-cuc-thu-y-de-nghi-thao-cam-vien-mua-lai-cho-hoang-lam-moi-cho-su-tu.html", #So sánh với nhiều nguồn tin khác => tin bịa đặt
-"http://kenh13.net/de-xuat-phuong-an-nghi-tet-mau-tuat-2018-len-20-ngay.html", #(chặn crawl) So sánh với nhiều nguồn tin khác => tin bịa đặt
 "http://autoxe.net/doi-song/khan-cap-xuat-hien-xe-bat-cho-gia-o-tp-hcm.html", #So sánh với nhiều nguồn tin khác => tin bịa đặt
 "http://phapluat.news/de-xuat-cam-tat-ca-cong-chuc-ha-noi-xang-tai-tram-xang-nhat.html", #So sánh với nhiều nguồn tin khác => tin bịa đặt
 "http://tintucqpvn.net/thanh-nien-24-bong-hoa-nguoi-ran-sau-1-dem-da-de-nut-toac-den-xi-ai-nhin-cung-ha-i.html", #Kiểm tra với nhiều nguồn tin khác nhau => Nội dung hư cấu, mục đích câu view
 "https://thegioitre.vn/5-meo-than-thanh-danh-bay-mun-trong-mot-dem-47385.html", #Tiêu đề phi lí, mục đích câu view
+"http://tinvn.info/nhin-thay-soi-day-nay-tren-mat-dat-tranh-xa-5-met-keo-den-dui-khong-co-duong-lui.html", #Tiêu đề và nội dung không liên quan
 "https://thegioitre.vn/dan-tinh-ta-hoa-voi-hinh-anh-mat-me-phi-pheo-thuoc-la-cua-erik-sau-bao-nhieu-nam-lam-trai-ngoan-61821.html", #Kiểm tra với nhiều nguồn tin khác => không có thật
 "https://www.ipick.vn/bai-viet/hollywood-se-lam-sieu-pham-ve-tet-mau-than-1968-o-hue", #Kiểm tra với nhiều nguồn tin khác => không có thật
 "http://baoangiang.com.vn/hoa-sy-khuyet-tat-le-minh-chau-tro-thanh-nguoi-viet-dau-tien-co-ten-tren-dai-lo-danh-vong-hollywood-a234717.html", #Kiểm tra với nhiều nguồn tin khác => sai sự thật
@@ -32,7 +32,7 @@
 "http://tinvn.info/dung-ban-nem-chua-ran-gai-xinh-khien-dan-mang-ta-hoa-vi-dung-cu-nguy-hiem-dat-ngay-duoi-vong-1.html", #Tiêu đề không phù hợp với nội dung
 "http://tinvn.info/di-ca-dem-moi-ve-ba-me-ta-hoa-thay-mat-con-bi-cat-nat-kinh-di-va-su-that-soc-tan-nao-dang-sau.html", #Tiêu đề mang tính câu view
 "http://tinvn.info/khoe-anh-dep-khong-ty-vet-nhung-ngoc-trinh-khien-nguoi-nhin-ta-hoa-khi-phat-hien-ra-phan-di-dang-nay.html", #Tiêu đề mang tính câu view
-"http://tinvn.info/ban-trai-yeu-5-nam-chua-mot-lan-doi-hoi-nghi-anh-gay-toi-keo-luon-vao-phong-coi-ao-de-kiem-tra-thi-anh-ap-ung-xin-em-dung-coi-va-su-that-la.html" #Tiêu đề và nội dung mang tính câu view
+"http://tinvn.info/ban-trai-yeu-5-nam-chua-mot-lan-doi-hoi-nghi-anh-gay-toi-keo-luon-vao-phong-coi-ao-de-kiem-tra-thi-anh-ap-ung-xin-em-dung-coi-va-su-that-la.html", #Tiêu đề và nội dung mang tính câu view
 "http://tinvn.info/xe-dang-di-bong-dung-chet-may-thieu-nu-kinh-hai-khi-thao-tung-xe-la-canh-tuong-khong-the-nao-quen.html", #Tiêu đề mang tính câu view, nội dung không phù hợp
 "http://tinvn.info/nhat-kim-anh-tiet-lo-than-duoc-giup-co-thoat-khoi-luoi-hai-tu-than-tren-may-bay.html", #Tiêu đề và nội dung mang tính câu view
 "http://tinvn.info/mac-do-boi-goi-cam-bao-anh-gay-bat-ngo-khi-xam-chu-nay-len-dui.html", #Tiêu đề và nội dung mang tính câu view
@@ -68,4 +68,33 @@
 "http://tinvn.info/hot-girl-co-vong-1-tu-nhien-khung-nhat-chau-a-phat-ngon-gay-soc-ve-ly-do-khong-bao-gio-mac-ho.html", #Tiêu đề và nội dung không khớp
 "http://tinvn.info/mac-do-khong-khac-gi-vai-man-len-bar-du-don-mon-2k-nhan-cai-ket-qua-dang-khi-phat-ngon-cau-nay.html", #Tiêu đề và nội dung không khớp
 "http://tinvn.info/quan-trung-vit-lon-1-dem-ban-1-000-qua-khach-den-mua-soc-nang-khi-biet-ben-trong-noi-co.html", #Tiêu đề gây sốc, nội dung không liên quan
-"http://tinvn.info/ly-do-phi-nhung-phai-uong-thuoc-tru-sau-tu-tu-khien-ai-cung-choang.html" #Tiêu đề gây sốc, không khớp nội dung
+"http://tinvn.info/ly-do-phi-nhung-phai-uong-thuoc-tru-sau-tu-tu-khien-ai-cung-choang.html", #Tiêu đề gây sốc, không khớp nội dung
+"http://tinvn.info/doc-ong-dieu-hoa-rung-tim-vi-thay-sinh-vat-bang-co-tay-dai-ca-met-nay-truon-ra.html", #Tiêu đề và nội dung không liên quan
+"http://tinvn.info/lay-chong-thuc-vat-35-tuoi-van-con-zin-1-dem-cham-chong-met-qua-vo-ngu-thiep-di-luc-tinh-day-thi-hot-hoang-khi-thay.html", #Không có bằng chứng cụ thể, hình ảnh sai lệch
+"http://tinvn.info/muon-tien-vao-nhu-nuoc-nho-dung-de-thu-nay-trong-vi.html", #Nội dung mê tín
+"http://tinvn.info/chi-mot-lan-vui-qua-tron-thanh-nien-sui-day-not-la-tren-lung-de-roi-chet-lang-khi-biet-su-that-dang-ngat.html", #Tiêu đề câu view, nội dung không có bằng chứng rõ ràng
+"http://tinvn.info/nhung-dau-hieu-nhan-biet-nha-ban-dang-co-ma-va-cach-tru-ma-quy-trong-nha.html", #Nội dung mê tín
+"http://tinvn.info/tuong-nhat-duoc-trung-khung-long-giua-vuon-mang-vao-nha-so-hai-tot-do-khi-thay-no-tren-tay-la.html", #Kiểm tra trên các nguồn tin khác nhau, nội dung sai sự thật
+"http://tinvn.info/cu-tuong-dao-duoc-trung-khung-long-nguoi-dan-ong-tach-doi-moi-cam-nin-vi-ben-trong-thuc-ra-la.html", #Tin nhảm
+"http://tinvn.info/dem-nao-cung-nghe-luc-duc-duoi-gam-giuong-so-hai-lat-tam-phan-phat-hien-bi-mat-kinh-hoang.html", #Đối chiếu trên các nguồn tin khác nhau => hình ảnh sai lệch, câu chuyện được tưởng tượng để câu view
+"http://tinvn.info/thay-vo-mau-me-nam-bat-dong-tren-san-tuong-con-gai-xuong-tay-ha-sat-lao-vao-phat-hien-su-that-kinh-hoang.html", #Tiêu đề gây kích động
+"http://tinvn.info/rach-dau-ran-moc-lon-nhon-da-dam-la-canh-tuong-kinh-hoang-khong-ai-muon-chung-kien-qua-5-giay.html", #Tiêu đề và nội dung không liên quan
+"http://tinvn.info/tim-mat-bop-bung-tran-khung-quan-quai-tren-san-bom-ra-thu-kinh-di-am-anh-ca-gia-dinh.html", #Tiêu đề và nội dung không liên quan
+"http://tinvn.info/neu-thay-thu-nay-tho-len-ngoai-vuon-nha-dung-cham-vao-ma-hay-chay-nhanh-khi-con-co-the.html", #Tiêu đề mang tính câu view, không liên quan nội dung
+"http://tinvn.info/vua-roi-giuong-benh-chua-bao-lau-ai-nay-chet-ngat-khi-bat-gap-tran-son-dang-lam-viec-kinh-di-nay.html", #Tin nhảm
+"http://tinvn.info/khiep-so-voi-chiec-mui-bien-dang-kinh-di-nguoi-dan-ong-khien-ca-phong-phau-thuat-am-anh-khi-vua-cham-keo-la-canh-tuong.html", #Tiêu đề và nội dung không liên quan
+"http://tinvn.info/ven-quan-thay-giun-bo-luc-nhuc-trong-bap-chan-toi-benh-vien-moi-oi-mua-khi-biet-su-that-ben-trong.html", #Không có bằng chứng rõ ràng, hình ảnh sai lệch
+"http://tinvn.info/dem-nao-cung-thay-vo-bien-mat-dat-camera-an-chong-phat-hien-hanh-dong-qua-kinh-hoang.html", #Tiêu đề câu view
+"http://tinvn.info/thich-dang-hang-check-in-cho-thoang-thieu-nu-khien-ban-be-dung-hinh-khi-thay-thu-kinh-di-loi-ra.html", #Tiêu đề câu view, nội dung không liên quan
+"http://tinvn.info/nhan-xam-cho-kin-cho-thieu-nu-tai-mat-vi-thay-dieu-kinh-di-khien-anh-tho-muon-hoc-mau-mom.html", #Tiêu đề và nội dung không liên quan
+"http://tinvn.info/nghien-xam-minh-thieu-nu-khoc-ngat-khi-nhin-thay-canh-tay-minh-sau-vai-ngay-di-xoa.html", #Tiêu đề và nội dung không liên quan
+"http://tinvn.info/me-gia-bao-mong-no-an-het-roi-con-chau-cai-mo-sau-3-nam-khoc-ngat-khi-thay-canh-nay.html", #Tiêu đề và nội dung không liên quan
+"http://tinvn.info/hen-ho-nguoi-thuong-noi-san-truong-nam-sinh-khoc-thet-cam-dep-bo-chay-khi-thay-thu-nay-loi-ra-tu-vong-3-thieu-nu.html", #Tin nhảm
+"http://tinvn.info/vo-su-60-tuoi-tay-khong-danh-bai-hang-tram-giang-ho-sai-gon.html", #Tiêu đề không khớp nội dung
+"http://tinvn.info/bun-run-chan-tay-khi-lo-cham-tay-vao-hang-trieu-chiec-rang-moc-chi-chit-tren-da-thit-nguoi-dan-ong.html", #Tiêu đề giật gân để câu view
+"http://tinvn.info/lien-tuc-duoc-con-trai-bao-mong-ba-me-kinh-hai-khi-nhin-thay-canh-tuong-khi-tham-mo-con.html", #Mê tín và nhảm
+"http://tinvn.info/ai-cung-cham-chu-tuong-bien-so-xe-co-dieu-gi-khung-khiep-soc-nang-khi-biet-su-that-lai-la.html", #Tiêu đề và nội dung không liên quan
+"http://tinvn.info/chuyen-li-ki-nguoi-phu-nu-cuu-ran-ho-chua-va-bay-ran-ho-tim-den-nha-de.html", #Kiểm tra trên các nguồn tin khác nhau => tin bịa đặt
+"http://tinvn.info/chi-vai-giay-dung-cho-den-do-nguoi-dan-ong-nay-da-khien-ca-quoc-gia-khoc-thet-khi-tim-thay-diem-rung-ron-lap-lo-trong-ao.html", #Tin nhảm
+"http://tinvn.info/nguoi-cha-thu-tinh-mang-benh-hiv-van-c-uong-h-iep-con-gai.html", #Kiểm tra trên các nguồn tin khác nhau => tin bịa đặt
+"http://tinvn.info/chua-het-benh-cam-cho-vo-nguoi-chong-cay-dang-nhin-vo-ra-di-tim-cuoc-song-moi-vi-ly-do-tuong-chi-co-trong-phim.html" #Kiểm tra trên các nguồn tin khác => chuyện bịa để câu view
