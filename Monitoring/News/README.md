@@ -36,3 +36,8 @@ VFDN_Ac_Monitoring_15: [Đạn pháo Ukraina rơi trúng một chiếc xe buýt 
 
 VFDN_Ac_Monitoring_16 -> Fake: [Dân Mỹ tích cóp ve chai bán kiếm tiền, mua hàng sắp ‘hết đát’ để tiết kiệm khi giá cả tăng kỷ lục](http://nhipsongkinhte.toquoc.vn/dan-my-tich-cop-ve-chai-ban-kiem-tien-mua-hang-sap-het-dat-de-tiet-kiem-khi-gia-ca-tang-ky-luc-42022307104038922.htm) - Bài được dịch từ [This region is suffering from some of the highest inflation in America. Here's how locals are surviving - CNN](https://edition.cnn.com/2022/07/28/economy/surviving-second-highest-inflation/index.html) nhưng thay đổi tiêu đề và nội dung để gây hiểu nhầm: từ "Vùng Riverside trong tiểu bang California đang bị ảnh hưởng bởi lạm phát, người dân cố gắng vượt qua thông qua việc kiếm thêm thu nhập và mua đồ được giảm giá" thành "Dân Mỹ phải bán ve chai để kiếm tiền, và mua hàng sắp hết hạn sử dụng vì lạm phát".
 
+VFDN_Ac_Monitoring_17: [Putin tố Mỹ dàn dựng đảo chính Ukraine năm 2014](https://vnexpress.net/putin-to-my-dan-dung-dao-chinh-ukraine-nam-2014-4298290.html)
+
+VFDN_Ac_Monitoring_18: [Putin tố Mỹ dàn dựng đảo chính Ukraine năm 2014](https://botayvk.com/putin-to-my-dan-dung-dao-chinh-ukraine-nam-2014/)
+
+VFDN_Ac_Monitoring_19: [Lạm phát Việt Nam ở nhóm thấp nhất thế giới](https://baodansinh.vn/lam-phat-viet-nam-o-nhom-thap-nhat-the-gioi-20220727063100.htm)
