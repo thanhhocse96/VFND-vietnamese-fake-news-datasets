@@ -41,3 +41,20 @@ VFDN_Ac_Monitoring_17: [Putin tố Mỹ dàn dựng đảo chính Ukraine năm 2
 VFDN_Ac_Monitoring_18: [Putin tố Mỹ dàn dựng đảo chính Ukraine năm 2014](https://botayvk.com/putin-to-my-dan-dung-dao-chinh-ukraine-nam-2014/)
 
 VFDN_Ac_Monitoring_19: [Lạm phát Việt Nam ở nhóm thấp nhất thế giới](https://baodansinh.vn/lam-phat-viet-nam-o-nhom-thap-nhat-the-gioi-20220727063100.htm)
+
+VFDN_Ac_Monitoring_20: [Xử phạt người bình luận sai trên mạng xã hội về ‘hòn non bộ’ ở Quảng Ninh](https://tuoitre.vn/xu-phat-nguoi-binh-luan-sai-tren-mang-xa-hoi-ve-hon-non-bo-o-quang-ninh-20220817080338816.htm)
+
+VFDN_Ac_Monitoring_21: [Cà Mau có thể là cảng vũ trụ đầu tiên của Việt Nam](https://ipec.com.vn/ca-mau-co-the-la-cang-vu-tru-dau-tien-cua-viet-nam/)
+
+VFDN_Ac_Monitoring_22: [Phi thuyền Việt Nam thử nghiệm thành công vào không gian: Sánh ngang các nước phát triển](https://vietgiaitri.com/phi-thuyen-viet-nam-thu-nghiem-thanh-cong-vao-khong-gian-sanh-ngang-cac-nuoc-phat-trien-20150310i1831830/)
+
+VFDN_Ac_Monitoring_23: [Heo chết hàng loạt sau tiêm vaccine, Navetco phải nghiêm túc làm rõ trách nhiệm](https://www.sggp.org.vn/heo-chet-hang-loat-sau-tiem-vaccine-navetco-phai-nghiem-tuc-lam-ro-trach-nhiem-837788.html)
+
+VFDN_Ac_Monitoring_24: [Chỉ đạo khẩn vụ gần 550 con heo chết sau tiêm vaccine dịch tả Châu Phi](https://plo.vn/chi-dao-khan-vu-gan-550-con-heo-chet-sau-tiem-vaccine-dich-ta-chau-phi-post695720.html)
+
+VFDN_Ac_Monitoring_25: [Quảng Ngãi: Heo chết hàng loạt sau khi tiêm vắc-xin phòng dịch tả heo châu Phi](https://congthuong.vn/quang-ngai-heo-chet-hang-loat-sau-khi-tiem-vac-xin-phong-dich-ta-heo-chau-phi-218418.html)
+
+VFDN_Ac_Monitoring_26: [Bộ NN&PTNT đổ lỗi cho dân về vụ heo chết sau khi tiêm vaccine](https://saigonnhonews.com/thoi-su/viet-nam/bo-nnptnt-do-loi-cho-dan-ve-vu-heo-chet-sau-khi-tiem-vaccine/)
+
+# Need to add
+https://baomoi.com/phu-huynh-my-dau-dau-vi-mua-tuu-truong-dat-do/c/43647666.epi
